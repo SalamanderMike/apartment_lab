@@ -1,0 +1,25 @@
+[{
+"building": "Townhouse",
+"units": 1,
+"address": "13678 Dark St",
+"city": "New Emperor City",
+"planet": "Coruscant"
+},
+
+{
+"building": "Duplex",
+"units": 2,
+"address": "7878 Tauntaun Ln ",
+"city": "Burrrrbank",
+"planet": "Hoth"
+},
+
+{
+"building": "Appartment",
+"units": 5,
+"address": "22 Scoundrel Ave ",
+"city": "Mos Eisley",
+"planet": "Tatooine"
+}]
+
+

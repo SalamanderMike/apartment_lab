@@ -1,0 +1,62 @@
+[{
+"name": "Darth Maul",
+"contact": "(800)666-9996",
+"employment": "Sith Lord",
+"address": ["13678 Black Ave.","New Emperor City","Coruscant"]
+},
+						
+{
+"name": "Darth Vader",
+"contact": "(504)666-2002",
+"employment": "Sith Lord",
+"address": ["56565 Dark St.","New Emperor City","Coruscant"]
+},
+
+{
+"name": "Chewie Chewbacca",
+"contact": "(555)123-8008",
+"employment": "Sidekick",
+"address": ["22 Scoundrel Ave. Apt 1B","Mos Eisley","Tatooine"]
+},
+
+{
+"name": "Leia Organa",
+"contact": "(405)123-1001",
+"employment": "Princess",
+"address": ["7878 Peace Pl. A","Republic City","Alderaan"]
+},
+
+{
+"name": "Jabba D. Hutt",
+"contact": "(800)888-5555",
+"employment": "Property Investor",
+"address": ["1 Scoundrel Ave.","Mos Eisley","Tatooine"]
+},
+
+{
+"name": "Luke Skywalker",
+"contact": "(555)123-2002",
+"employment": "Jedi Knight",
+"address": ["22 Scoundrel Ave. Apt. 3B","Mos Eisley","Tatooine"]
+},
+
+{
+"name": "Han Solo",
+"contact": "(405)123-3003",
+"employment": "Scoundrel",
+"address": ["7878 Peace Pl. B","Republic City","Alderaan"]
+},
+
+{
+"name": "Obi W. Kenobi",
+"contact": "(555)123-4004",
+"employment": "Jedi Master",
+"address": ["22 Scoundrel Ave. Apt 2B","Mos Eisley","Tatooine"]
+},
+
+{
+"name": "General Tarkin",
+"contact": "(504)666-3003",
+"employment": "Star Destroyer General",
+"address": ["87654 Dark St.","New Emperor City","Coruscant"]
+}]
